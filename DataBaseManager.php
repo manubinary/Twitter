@@ -3,6 +3,9 @@
 class Mysql{
 
 		static private $link = null;
+	
+	
+	
 		static private $info = array(
 			'last_query' => null,
 			'num_rows' => null,
